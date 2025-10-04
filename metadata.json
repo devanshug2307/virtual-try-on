@@ -1,0 +1,7 @@
+{
+  "name": "AI Virtual Try-On",
+  "description": "Upload a cloth texture and see it on a virtual model. Select from different clothing styles and generate high-quality images of models wearing your design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
