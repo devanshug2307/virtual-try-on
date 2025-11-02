@@ -18,3 +18,17 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Qm33sxSdJZagAtrPuJoAng
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+# NailArtAI - Virtual Nail Art Generator
+
+Transform your nails with AI-powered technology! 
+
+## Features
+- 📸 Virtual try-on with photo upload
+- 🎨 AI design generation
+- 💅 All nail shapes supported
+- 📚 Step-by-step tutorials
+
+Visit us at [NailArtAI.app](https://www.nailartai.app)
+```
+
